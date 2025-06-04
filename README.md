@@ -18,6 +18,29 @@ For this project, the company’s **October transactions** were recorded using S
 - This is the kind of work **many small and medium businesses do every month**. So if I join as an accountant or accounting assistant, I’ll already know how to handle things like **payroll, journal entries, and remittances**. I also got used to working with Sage 50, which is a **common accounting software in Canada**.
 - Thanks to my accounting course at **Seneca College** and the help of my **professor**, I feel more confident and ready to do these tasks **in a real job**.
 
+### 🧾 Payroll Cheque Run – Screenshot & Explanation
+![Payroll Cheque Run](https://github.com/Tushar-Gambhir/Helen-s-Academy-Sage-50/blob/382499fa6b3198b01d2a9fdb8504f521f202b1bc/Payroll%20Cheque%20Run.jpg)
+🔍 What It Shows:
+This screenshot shows a payroll cheque run processed for multiple employees in Sage 50. It includes:
+
+- Income Tab
+- Vaccation Tab
+- Deduction Tab
+- Taxes Tab
+- Entitlements Tab
+
+### 💡 Why It’s Important in Payroll Management:
+The cheque run is a key part of the payroll process. It helps to:
+
+- Pay **multiple employees at the same time**, saving time and reducing errors
+- **Automatically** calculate and **apply government deductions**
+- **Update** accounting **records and payroll reports**
+- Keep payroll **records updated and ready for CRA remittances**
+- **Vacation pay and sick leave** payouts
+
+
+
+
 
 
 
